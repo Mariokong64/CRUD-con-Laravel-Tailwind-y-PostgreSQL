@@ -15,4 +15,4 @@ Como middleware utilice el Apache que viene con el XAMPP, mientras que el editor
 
 
 NOTA
-No pase todos los componentes de la carpeta "ventor" porque son muchos y no quiero saturar mi GitHub. Aunque no creo que se requieran y en caso de que si, se puede utilizar la carpeta de cualquier otro proyecto porque se crea automáticamente.
+No pase todos los componentes de la carpeta "vendor" porque son muchos y no quiero saturar mi GitHub. Aunque no creo que se requieran y en caso de que si, se puede utilizar la carpeta de cualquier otro proyecto porque se crea automáticamente.
